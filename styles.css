@@ -101,7 +101,7 @@ img { max-width: 100%; display: block; }
 .text {
     font-family: 'Lexend Deca', sans-serif;
     line-height: 26px;
-    margin-top: 40px;
+    margin-top: 25px;
     color: var(--transparent-white-paragraphs);
 }
 
